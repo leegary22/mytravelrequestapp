@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reason_for_travel" table="x_snc_kaf_employ_0_travel_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reason_for_travel</element>
+            <name>x_snc_kaf_employ_0_travel_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:03:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reason_for_travel</sys_name>
+            <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+            <sys_update_name>sys_choice_x_snc_kaf_employ_0_travel_request_reason_for_travel</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:03:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_travel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internal Meeting</label>
+            <language>en</language>
+            <name>x_snc_kaf_employ_0_travel_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:03:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:03:23</sys_updated_on>
+            <value>internal_meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_travel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer meeting</label>
+            <language>en</language>
+            <name>x_snc_kaf_employ_0_travel_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:03:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:03:23</sys_updated_on>
+            <value>customer_meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_travel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_snc_kaf_employ_0_travel_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:03:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:03:23</sys_updated_on>
+            <value>training</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

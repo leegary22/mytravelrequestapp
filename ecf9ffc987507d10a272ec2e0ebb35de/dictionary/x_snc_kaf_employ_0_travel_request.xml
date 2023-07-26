@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="30c28cd987147d10a272ec2e0ebb35ca" extends="task" label="Travel request" max_length="40" name="x_snc_kaf_employ_0_travel_request" type="collection">
+        <element label="Departure date" max_length="255" name="departure_date" type="glide_date"/>
+        <element label="Estimated airfare" max_length="38" name="estimated_airfare" type="decimal"/>
+        <element choice="1" label="Reason for travel" max_length="40" name="reason_for_travel" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Internal Meeting" sequence="0" value="internal_meeting"/>
+                <element inactive_on_update="false" label="Customer meeting" sequence="1" value="customer_meeting"/>
+                <element inactive_on_update="false" label="Training" sequence="2" value="training"/>
+            </choice>
+        </element>
+        <element label="Return date" max_length="40" name="return_date" type="glide_date"/>
+        <element label="Travel from" max_length="32" name="travel_from" reference="x_snc_kaf_employ_0_mytravelairport" type="reference"/>
+        <element label="Travel to" max_length="32" name="travel_to" reference="x_snc_kaf_employ_0_mytravelairport" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Kaf Employ 0 1690387530981</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_kaf_employ_0_1690387530981</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:05:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b2c48c9587547d10a272ec2e0ebb3501</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kaf Employ 0 1690387530981</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_update_name>sys_app_module_b2c48c9587547d10a272ec2e0ebb3501</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:05:33</sys_updated_on>
+        <timeline_page/>
+        <title>Kaf Employ 0 1690387530981</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</application>
+        <file_path/>
+        <instance_id>061676641bcbedd832182f8dee4bcbaf</instance_id>
+        <instance_name>demotechnologywf34527</instance_name>
+        <name>sys_app_module_b2c48c9587547d10a272ec2e0ebb3501</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Kaf Employ 0 1690387530981</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_kaf_employ_0_1690387530981</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-26 16:05:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b2c48c9587547d10a272ec2e0ebb3501</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Kaf Employ 0 1690387530981</sys_name><sys_overrides/><sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package><sys_policy/><sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope><sys_update_name>sys_app_module_b2c48c9587547d10a272ec2e0ebb3501</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-26 16:05:33</sys_updated_on><timeline_page/><title>Kaf Employ 0 1690387530981</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2034752607</payload_hash>
+        <record_name>Kaf Employ 0 1690387530981</record_name>
+        <reverted_from/>
+        <source>0951485187147d10a272ec2e0ebb356e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:05:33</sys_created_on>
+        <sys_id>bac48c9587547d10a272ec2e0ebb3504</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18992f2d0aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:05:33</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bec48c95da547d10ae24a60d73e19303</update_guid>
+        <update_guid_history>bec48c95da547d10ae24a60d73e19303:-2034752607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Kaf Employ 0 1690387530981">ef25841987547d10a272ec2e0ebb357b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:07:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3d514d252b16473e933d683044473401</sys_id>
+        <sys_metadata>b2c48c9587547d10a272ec2e0ebb3501</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kaf Employ 0 1690387530981</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_scope_delete display_value="">d0d2f1e214cc461ba6692aa88b0ed781</sys_scope_delete>
+        <sys_update_name>sys_app_module_b2c48c9587547d10a272ec2e0ebb3501</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b2c48c9587547d10a272ec2e0ebb3501">bac48c9587547d10a272ec2e0ebb3504</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:07:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

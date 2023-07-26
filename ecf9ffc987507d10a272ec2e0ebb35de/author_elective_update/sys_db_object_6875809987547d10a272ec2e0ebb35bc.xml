@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_document_table>false</is_document_table>
+        <is_extendable>false</is_extendable>
+        <label>Kaf Employ 0 1690387704024</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_kaf_employ_0_1690387704024</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">b039b2e087032110a272ec2e0ebb357b</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:08:25</sys_created_on>
+        <sys_id>6875809987547d10a272ec2e0ebb35bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kaf Employ 0 1690387704024</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_update_name>sys_db_object_6875809987547d10a272ec2e0ebb35bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:08:25</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</application>
+        <file_path/>
+        <instance_id>061676641bcbedd832182f8dee4bcbaf</instance_id>
+        <instance_name>demotechnologywf34527</instance_name>
+        <name>sys_db_object_6875809987547d10a272ec2e0ebb35bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_document_table>false</is_document_table><is_extendable>false</is_extendable><label>Kaf Employ 0 1690387704024</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_kaf_employ_0_1690387704024</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">b039b2e087032110a272ec2e0ebb357b</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-26 16:08:25</sys_created_on><sys_id>6875809987547d10a272ec2e0ebb35bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Kaf Employ 0 1690387704024</sys_name><sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package><sys_policy/><sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope><sys_update_name>sys_db_object_6875809987547d10a272ec2e0ebb35bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-26 16:08:25</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1460370160</payload_hash>
+        <record_name>Kaf Employ 0 1690387704024</record_name>
+        <reverted_from/>
+        <source>0951485187147d10a272ec2e0ebb356e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:08:25</sys_created_on>
+        <sys_id>6c75c09987547d10a272ec2e0ebb35ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18992f56ec70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:08:25</sys_updated_on>
+        <type>Table</type>
+        <update_guid>e075c0997c547d107b9ea3cababc4aba</update_guid>
+        <update_guid_history>e075c0997c547d107b9ea3cababc4aba:-1460370160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:09:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>07a1cb4aa8c747aa8064081971fa3ce4</sys_id>
+        <sys_metadata>6875809987547d10a272ec2e0ebb35bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kaf Employ 0 1690387704024</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_scope_delete display_value="">d0d2f1e214cc461ba6692aa88b0ed781</sys_scope_delete>
+        <sys_update_name>sys_db_object_6875809987547d10a272ec2e0ebb35bc</sys_update_name>
+        <sys_update_version display_value="sys_db_object_6875809987547d10a272ec2e0ebb35bc">6c75c09987547d10a272ec2e0ebb35ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:09:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

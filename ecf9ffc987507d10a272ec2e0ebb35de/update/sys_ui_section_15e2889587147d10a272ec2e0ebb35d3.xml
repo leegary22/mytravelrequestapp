@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="15e2889587147d10a272ec2e0ebb35d3" sys_domain="global" table="x_snc_kaf_employ_0_travel_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>28b744d587947d10a272ec2e0ebb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason_for_travel</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>acb744d587947d10a272ec2e0ebb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_from</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>20b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departure_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>a0b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_airfare</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>24b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>a4b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>28b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>a8b744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_to</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>2cb744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>acb744d587947d10a272ec2e0ebb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>20b744d587947d10a272ec2e0ebb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>a0b744d587947d10a272ec2e0ebb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>24b744d587947d10a272ec2e0ebb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 16:18:14</sys_created_on>
+            <sys_id>a4b744d587947d10a272ec2e0ebb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_kaf_employ_0_travel_request" sys_domain="global" view="Default view">15e2889587147d10a272ec2e0ebb35d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 16:18:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_kaf_employ_0_travel_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-26 15:57:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15e2889587147d10a272ec2e0ebb35d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_kaf_employ_0_travel_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+            <sys_update_name>sys_ui_section_15e2889587147d10a272ec2e0ebb35d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-26 15:57:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
