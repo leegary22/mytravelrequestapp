@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Raise a my employee travel request">dbe94c5187d47d10a272ec2e0ebb3501</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:30:45</sys_created_on>
+        <sys_id>ab8a005587d47d10a272ec2e0ebb351d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise a my employee travel request</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ab8a005587d47d10a272ec2e0ebb351d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:30:45</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
