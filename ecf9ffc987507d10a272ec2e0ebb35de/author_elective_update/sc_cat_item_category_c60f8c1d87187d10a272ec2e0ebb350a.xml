@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Copy of Raise a my employee travel request">020f8c1d87187d10a272ec2e0ebb3501</sc_cat_item>
+        <sc_category display_value="Can We Help You ?">aef224aadb55d8504327198d139619b1</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:50:18</sys_created_on>
+        <sys_id>c60f8c1d87187d10a272ec2e0ebb350a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You ?.Copy of Raise a my employee travel request</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_update_name>sc_cat_item_category_c60f8c1d87187d10a272ec2e0ebb350a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:50:18</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</application>
+        <file_path/>
+        <instance_id>061676641bcbedd832182f8dee4bcbaf</instance_id>
+        <instance_name>demotechnologywf34527</instance_name>
+        <name>sc_cat_item_category_c60f8c1d87187d10a272ec2e0ebb350a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Raise a my employee travel request">020f8c1d87187d10a272ec2e0ebb3501</sc_cat_item><sc_category display_value="Can We Help You ?">aef224aadb55d8504327198d139619b1</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-26 16:50:18</sys_created_on><sys_id>c60f8c1d87187d10a272ec2e0ebb350a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You ?.Copy of Raise a my employee travel request</sys_name><sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package><sys_policy/><sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope><sys_update_name>sc_cat_item_category_c60f8c1d87187d10a272ec2e0ebb350a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-26 16:50:18</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>444502658</payload_hash>
+        <record_name>Can We Help You ?.Copy of Raise a my employee travel request</record_name>
+        <reverted_from/>
+        <source>0951485187147d10a272ec2e0ebb356e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:50:18</sys_created_on>
+        <sys_id>820f8c1d87187d10a272ec2e0ebb350e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189931bc72d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:50:18</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>860f8c1da3187d107a32c3f4539ff60d</update_guid>
+        <update_guid_history>860f8c1da3187d107a32c3f4539ff60d:444502658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You ?.Copy of Raise a my employee travel request">761f845d87187d10a272ec2e0ebb3506</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 16:50:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0166dc5bf5e240ff80a0c40edeb4a0d1</sys_id>
+        <sys_metadata>c60f8c1d87187d10a272ec2e0ebb350a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You ?.Copy of Raise a my employee travel request</sys_name>
+        <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+        <sys_scope_delete display_value="">d0d2f1e214cc461ba6692aa88b0ed781</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_c60f8c1d87187d10a272ec2e0ebb350a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_c60f8c1d87187d10a272ec2e0ebb350a">820f8c1d87187d10a272ec2e0ebb350e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 16:50:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

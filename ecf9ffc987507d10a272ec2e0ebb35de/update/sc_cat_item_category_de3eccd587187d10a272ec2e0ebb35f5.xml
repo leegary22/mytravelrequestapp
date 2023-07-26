@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Raise a my employee travel request">dbe94c5187d47d10a272ec2e0ebb3501</sc_cat_item>
+        <sc_cat_item display_value="Raise a my employee travel request">1e3e089587187d10a272ec2e0ebb35f1</sc_cat_item>
         <sc_category display_value="Can We Help You ?">aef224aadb55d8504327198d139619b1</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-26 16:30:45</sys_created_on>
-        <sys_id>af8a005587d47d10a272ec2e0ebb3521</sys_id>
+        <sys_created_on>2023-07-26 16:46:45</sys_created_on>
+        <sys_id>de3eccd587187d10a272ec2e0ebb35f5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Can We Help You ?.Raise a my employee travel request</sys_name>
         <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
         <sys_policy/>
         <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
-        <sys_update_name>sc_cat_item_category_af8a005587d47d10a272ec2e0ebb3521</sys_update_name>
+        <sys_update_name>sc_cat_item_category_de3eccd587187d10a272ec2e0ebb35f5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-26 16:30:45</sys_updated_on>
+        <sys_updated_on>2023-07-26 16:46:45</sys_updated_on>
     </sc_cat_item_category>
 </record_update>
