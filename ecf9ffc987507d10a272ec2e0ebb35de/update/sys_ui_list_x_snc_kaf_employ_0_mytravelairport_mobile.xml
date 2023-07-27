@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_kaf_employ_0_mytravelairport" version="2" view="mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>90a1c2d9879cfd10a272ec2e0ebb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>98a1c2d9879cfd10a272ec2e0ebb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>9ca1c2d9879cfd10a272ec2e0ebb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>code</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>90a1c2d9879cfd10a272ec2e0ebb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>country</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>94a1c2d9879cfd10a272ec2e0ebb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>icao</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>98a1c2d9879cfd10a272ec2e0ebb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>lat</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>9ca1c2d9879cfd10a272ec2e0ebb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>lon</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>90a1c2d9879cfd10a272ec2e0ebb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_kaf_employ_0_mytravelairport" element="NULL" name="x_snc_kaf_employ_0_mytravelairport" parent="NULL" relationship="NULL" sys_domain="global" view="50e8366087032110a272ec2e0ebb3568">50a1c2d9879cfd10a272ec2e0ebb351c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_id>94a1c2d9879cfd10a272ec2e0ebb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_kaf_employ_0_mytravelairport</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 01:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a1c2d9879cfd10a272ec2e0ebb351c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_kaf_employ_0_mytravelairport</sys_name>
+            <sys_package display_value="KAF Employee Travel Request" source="x_snc_kaf_employ_0">ecf9ffc987507d10a272ec2e0ebb35de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KAF Employee Travel Request">ecf9ffc987507d10a272ec2e0ebb35de</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_kaf_employ_0_mytravelairport_mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 01:10:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="mobile">50e8366087032110a272ec2e0ebb3568</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
